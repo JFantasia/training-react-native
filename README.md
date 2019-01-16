@@ -20,11 +20,9 @@ React Native training project
 
 [Native Base](https://docs.nativebase.io)
 
-[Mapas](https://github.com/react-native-community/react-native-maps)
+[Shoutem](https://github.com/shoutem) - [Mapas](https://github.com/react-native-community/react-native-maps)
 
-
-
-
+[UI Kitten](https://akveo.github.io/react-native-ui-kitten/#/home)
 
 
 # Emulador Android
