@@ -17,3 +17,5 @@ React Native training project
 
 
 
+# Emulador Android
+[Genymotion](https://planetadiego.com/2015/03/15/instalar-genymotion-emulador-de-android-en-ubuntu-y-derivados/)
